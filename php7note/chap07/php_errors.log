@@ -1,0 +1,2 @@
+[14-Jun-2017 00:55:32 Asia/Tokyo] PHP Notice:  Undefined property: Staff::$hello in /home/ubuntu/workspace/php7note/chap07/7-2/class_Staff.php on line 34
+[14-Jun-2017 00:55:32 Asia/Tokyo] PHP Notice:  Undefined property: Staff::$hello in /home/ubuntu/workspace/php7note/chap07/7-2/class_Staff.php on line 35
